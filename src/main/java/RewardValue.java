@@ -1,7 +1,7 @@
 public class RewardValue {
 
     // Conversion rate from miles to cash
-    private static final double MILES_TO_CASH_RATE = 0.0035;
+    public static final double MILES_TO_CASH_RATE = 0.0035;
 
     // Variable to store either cash or miles converted to cash
     private final double cashValue;
